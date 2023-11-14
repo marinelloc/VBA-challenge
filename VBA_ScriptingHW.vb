@@ -58,7 +58,9 @@ Sub Vba_ChallengePt1()
     Next ws
 
 ' After processing all worksheets, call pt2
-Call Vba_ChallegePt2
+
+''' I HAVE CORRECTED THE SPELLING ERROR '''
+Call Vba_ChallengePt2
 End Sub
 
 Sub Vba_ChallengePt2()
